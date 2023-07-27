@@ -11,7 +11,7 @@
             {
                 for(int j = 0; j<number; j++)
                 {
-                    if(j >= number-1-i)
+                    if(j >= number-1-i )
                     {
                         Console.Write("*");
                     }
